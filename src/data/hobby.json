@@ -1,0 +1,28 @@
+{
+    "hobby": [
+        {
+            "id": 1,
+            "name": "Calisthenics",
+            "img": "sport.jpg",
+            "description": "Enjoying the beauty of calisthenics movements for physical fitness and flexibility."
+        },
+        {
+            "id": 2,
+            "name": "Guitar",
+            "img": "guitar.jpg",
+            "description": "Playing the guitar brings tranquility and happiness through its distinctive melodies."
+        },
+        {
+            "id": 3,
+            "name": "Sleep",
+            "img": "sleep.jpg",
+            "description": "Sleep provides the opportunity for full recovery, offering energy after a sound sleep."
+        },
+        {
+            "id": 4,
+            "name": "Games",
+            "img": "game.jpg",
+            "description": "Enjoying the excitement and challenges of various games for fun and celebrating creativity."
+        }
+    ]
+}

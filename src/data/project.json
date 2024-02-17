@@ -1,0 +1,28 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "judul": "Alumni Circle Website 📚",
+            "deskripsi": "Designed and developed to meet the project requirements for the Web-Based Programming course. This platform serves as an online hub for alumni, fostering connections and providing a space to share experiences 💫",
+            "img": "webalumni.jpeg",
+            "github": "https://github.com/anggananda/webalumni",
+            "demo": ""
+        },
+        {
+            "id": 2,
+            "judul": "Valentine's Day Website 💞",
+            "deskripsi": "Crafted as a special digital gift for my partner on Valentine's Day. This personalized website is a celebration of our love, featuring interactive elements and a heartfelt design 💝",
+            "img": "valentine.jpeg",
+            "github": "https://github.com/anggananda/valentine",
+            "demo": "https://valentineday-sand.vercel.app"
+        },
+        {
+            "id": 3,
+            "judul": "Simple Portfolio",
+            "deskripsi": "Developed as a minimalist portfolio to encapsulate and present my unique ideas and creativity. This website showcases my skills and projects in a clean and organized manner 😁",
+            "img": "simpleportfolio.jpeg",
+            "github": "https://github.com/anggananda/simpleportfolio",
+            "demo": ""
+        }
+    ]
+}
